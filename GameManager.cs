@@ -96,7 +96,7 @@ public class GameManager : MonoBehaviour
     
     public void Result()
     {
-        Debug.Log("Game Over");
+        Debug.Log("Game Over");//게
         Game_start = false;
     }
 }
